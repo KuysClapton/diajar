@@ -27,10 +27,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.imgur.com/I0L6H1W.png", INEWS
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
-#EXTINF: -1 tvg-id="sctv.macan" tvg-logo="https://i.imgur.com/xYtZ3ll.png" group-title="TV NASIONAL", SCTV
+#EXTINF:-1 tvg-id="SCTV.id",SCTV (480p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 #https://m3u-editor.com/serve/c4cc06a0-8ccf-11ec-b8f0-5bbb7c35c66d/497584029
-https://dl.dropboxusercontent.com/scl/fi/sfd9rccizo6xav6jwppbo/sctv_dens.m3u8?rlkey=nj2tuecpjafoc6tkgi1lykyfk
+http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 
 
 
